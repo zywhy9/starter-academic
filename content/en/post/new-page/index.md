@@ -7,13 +7,14 @@ summary: "I finally figured out how to use Hugo!"
 authors: 
 - admin
 tags: 
-- Other
+- Feeling
 categories: 
-- Random
+- Diary
 date: 2020-12-30T20:49:18-05:00
 lastmod: 2020-12-30T20:49:18-05:00
 featured: false
 draft: false
+commentable : true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
