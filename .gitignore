@@ -4,4 +4,5 @@
 # Hugo
 /resources/
 public/
-.Rproj.user
+jsconfig.json
+node_modules/
